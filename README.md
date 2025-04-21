@@ -1,2 +1,1 @@
-# khanhPC
-khanhpc
+c
